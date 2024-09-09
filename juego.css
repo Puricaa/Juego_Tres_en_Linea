@@ -41,7 +41,7 @@ board {
 }
 
 .cell::before {
-    content: ";
+    content: ;
     position: absolute;
     top: -10px;
     feft: -10px;
